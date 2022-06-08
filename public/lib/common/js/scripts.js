@@ -22,7 +22,8 @@ $(function(){
         }
         else
         {
-            console.log("No destination selected.");
+            $(".weather").html("");
+            $(".places").html("");
         }
     });
 

@@ -4,7 +4,14 @@
             <div class="col s9 ofh">
                 <div>
                     <i class="material-icons red-text">location_on</i>
-                    <strong class="ml10 psa">{{ $p->name }}</strong>
+                    <strong class="ml10 red-text psa">{{ $p->name }}</strong>
+                </div>
+                <div class="ml35">
+                    <small>
+                        @foreach($p->categories as $c)
+                            <span>{{ $c->name }}</span>
+                        @endforeach
+                    </small>
                 </div>
                 <div class="ml35 grey-text">
                     <small>{{ $p->location->formatted_address }}</small>
