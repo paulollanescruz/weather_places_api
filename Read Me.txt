@@ -1,0 +1,14 @@
+UI and UX design explanation:
+
+I did a mobile first approach for this application because 
+most of the travellers can have a limited space in their bags to carry a laptop.
+And most of people travelling have their mobile phones for ease of access.
+
+Also I did a simple dropdown design for this requirement, a set of buttons at the bottom
+for more options that are already accessible using one hand just in case the traveller is
+holding something on their other hand.
+
+a scroll page result that can be browsed / scrolled using one hand and won't require both hands to navigate
+to select the desired item.
+
+Minimal information on the list so the tourist will get an insight of the result item.
