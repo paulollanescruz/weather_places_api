@@ -1,0 +1,488 @@
+{
+    "results": [
+        {
+            "fsq_id": "5098a6c6e4b00f5dfeb81e50",
+            "categories": [
+                {
+                    "id": 10037,
+                    "name": "Concert Hall",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 10039,
+                    "name": "Music Venue",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13263,
+                    "name": "Japanese Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/japanese_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 534,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.693525,
+                    "longitude": 135.496465
+                },
+                "roof": {
+                    "latitude": 34.693525,
+                    "longitude": 135.496465
+                }
+            },
+            "link": "/v3/places/5098a6c6e4b00f5dfeb81e50",
+            "location": {
+                "address": "北区中之島2丁目3-18",
+                "address_extended": "中之島フェスティバルタワー 12F",
+                "country": "JP",
+                "cross_street": "中之島フェスティバルタワー 2F-7F",
+                "formatted_address": "北区中之島2丁目3-18 (中之島フェスティバルタワー 2F-7F), 大阪市, Ōsaka, 530-0005",
+                "locality": "Osaka",
+                "neighborhood": [
+                    "中之島"
+                ],
+                "postcode": "530-0005",
+                "region": "Ōsaka"
+            },
+            "name": "Festival Hall (フェスティバルホール)",
+            "related_places": {
+                "parent": {
+                    "fsq_id": "4e151641e4cded561125a7f0",
+                    "name": "中之島フェスティバルタワー"
+                },
+                "children": [
+                    {
+                        "fsq_id": "58e8a6c0ae97564a464a54f7",
+                        "name": "世界の音楽ギフトショップ レオノーレ"
+                    }
+                ]
+            },
+            "timezone": "Asia/Tokyo"
+        },
+        {
+            "fsq_id": "4e2430bad22d0a3f5a12dc25",
+            "categories": [
+                {
+                    "id": 13276,
+                    "name": "Sushi Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 646,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.69943,
+                    "longitude": 135.501316
+                },
+                "roof": {
+                    "latitude": 34.69943,
+                    "longitude": 135.501316
+                }
+            },
+            "link": "/v3/places/4e2430bad22d0a3f5a12dc25",
+            "location": {
+                "address": "北区曽根崎2丁目5-24",
+                "country": "JP",
+                "cross_street": "中央ビル 1F",
+                "formatted_address": "北区曽根崎2丁目5-24 (中央ビル 1F), 大阪市, Ōsaka, 530-0057",
+                "locality": "Osaka",
+                "neighborhood": [
+                    "梅田"
+                ],
+                "postcode": "530-0057",
+                "region": "Ōsaka"
+            },
+            "name": "Jinen (じねん)",
+            "related_places": {},
+            "timezone": "Asia/Tokyo"
+        },
+        {
+            "fsq_id": "5383fc7e498e59fc12856406",
+            "categories": [
+                {
+                    "id": 13272,
+                    "name": "Ramen Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/ramen_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 785,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.689582,
+                    "longitude": 135.494969
+                },
+                "roof": {
+                    "latitude": 34.689582,
+                    "longitude": 135.494969
+                }
+            },
+            "link": "/v3/places/5383fc7e498e59fc12856406",
+            "location": {
+                "address": "西区江戸堀1丁目19-2",
+                "address_extended": "104ラインビルド肥後橋",
+                "country": "JP",
+                "cross_street": "",
+                "formatted_address": "西区江戸堀1丁目19-2, 大阪市, Ōsaka, 550-0002",
+                "locality": "Osaka",
+                "postcode": "550-0002",
+                "region": "Ōsaka"
+            },
+            "name": "Tori-soba Zagin (座銀)",
+            "related_places": {},
+            "timezone": "Asia/Tokyo"
+        },
+        {
+            "fsq_id": "4ee718f477c8e8931a96911a",
+            "categories": [
+                {
+                    "id": 13020,
+                    "name": "Sake Bar",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/sake_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 783,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.698963,
+                    "longitude": 135.496601
+                },
+                "roof": {
+                    "latitude": 34.698963,
+                    "longitude": 135.496601
+                }
+            },
+            "link": "/v3/places/4ee718f477c8e8931a96911a",
+            "location": {
+                "address": "梅田1丁目3-1",
+                "address_extended": "大阪駅前第一ビル B2F",
+                "country": "JP",
+                "cross_street": "大阪駅前第1ビル B2F",
+                "formatted_address": "梅田1丁目3-1 (大阪駅前第1ビル B2F), 大阪市, Ōsaka, 530-0001",
+                "locality": "Osaka",
+                "postcode": "530-0001",
+                "region": "Ōsaka"
+            },
+            "name": "Ginzaya (銀座屋)",
+            "related_places": {
+                "parent": {
+                    "fsq_id": "4b57d0aaf964a5206a4228e3",
+                    "name": "大阪駅前第1ビル"
+                }
+            },
+            "timezone": "Asia/Tokyo"
+        },
+        {
+            "fsq_id": "4b797141f964a520b6f92ee3",
+            "categories": [
+                {
+                    "id": 13059,
+                    "name": "Juice Bar",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/juicebar_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 951,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.701467,
+                    "longitude": 135.498031
+                },
+                "roof": {
+                    "latitude": 34.701467,
+                    "longitude": 135.498031
+                }
+            },
+            "link": "/v3/places/4b797141f964a520b6f92ee3",
+            "location": {
+                "address": "北区梅田1-1",
+                "country": "JP",
+                "cross_street": "阪神大阪梅田駅 B2F 東改札口前",
+                "formatted_address": "北区梅田1-1 (阪神大阪梅田駅 B2F 東改札口前), 大阪市, Ōsaka, 530-0001",
+                "locality": "Osaka",
+                "neighborhood": [
+                    "梅田"
+                ],
+                "postcode": "530-0001",
+                "region": "Ōsaka"
+            },
+            "name": "Umeda Mixed Juice (梅田ミックスジュース)",
+            "related_places": {},
+            "timezone": "Asia/Tokyo"
+        },
+        {
+            "fsq_id": "54783b95498ec0beb5a00ef6",
+            "categories": [
+                {
+                    "id": 13003,
+                    "name": "Bar",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13065,
+                    "name": "Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 992,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.702175,
+                    "longitude": 135.505436
+                },
+                "roof": {
+                    "latitude": 34.702175,
+                    "longitude": 135.505436
+                }
+            },
+            "link": "/v3/places/54783b95498ec0beb5a00ef6",
+            "location": {
+                "address": "北区太融寺町2-17",
+                "address_extended": "太融寺ビル 1F",
+                "country": "JP",
+                "cross_street": "",
+                "formatted_address": "北区太融寺町2-17, 大阪市, Ōsaka, 530-0051",
+                "locality": "Osaka",
+                "postcode": "530-0051",
+                "region": "Ōsaka"
+            },
+            "name": "浅野日本酒店",
+            "related_places": {},
+            "timezone": "Asia/Tokyo"
+        },
+        {
+            "fsq_id": "4d7c991c7498a1cdd09780fc",
+            "categories": [
+                {
+                    "id": 13268,
+                    "name": "Kushikatsu Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/japanese_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13279,
+                    "name": "Tempura Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/japanese_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 1046,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.703129,
+                    "longitude": 135.499703
+                },
+                "roof": {
+                    "latitude": 34.703129,
+                    "longitude": 135.499703
+                }
+            },
+            "link": "/v3/places/4d7c991c7498a1cdd09780fc",
+            "location": {
+                "address": "北区角田町梅田地下街2-5",
+                "address_extended": "ホワイティうめだノースモール",
+                "country": "JP",
+                "cross_street": "ホワイティうめだノースモール1",
+                "formatted_address": "北区角田町梅田地下街2-5 (ホワイティうめだノースモール1), 大阪市, Ōsaka, 530-0017",
+                "locality": "Osaka",
+                "postcode": "530-0017",
+                "region": "Ōsaka"
+            },
+            "name": "Kushikatsu Yoneya (串かつ ヨネヤ)",
+            "related_places": {
+                "parent": {
+                    "fsq_id": "4b6e9b4af964a520c3c32ce3",
+                    "name": "ホワイティうめだ Whity"
+                }
+            },
+            "timezone": "Asia/Tokyo"
+        },
+        {
+            "fsq_id": "4b9b13aef964a520ebf035e3",
+            "categories": [
+                {
+                    "id": 13099,
+                    "name": "Chinese Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 1383,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.6822,
+                    "longitude": 135.507188
+                },
+                "roof": {
+                    "latitude": 34.6822,
+                    "longitude": 135.507188
+                }
+            },
+            "link": "/v3/places/4b9b13aef964a520ebf035e3",
+            "location": {
+                "address": "中央区船場中央1-4",
+                "address_extended": "船場センタービル2号館 B2F",
+                "country": "JP",
+                "cross_street": "船場センタービル2号館B2",
+                "formatted_address": "中央区船場中央1-4 (船場センタービル2号館B2), 大阪市, Ōsaka, 541-0055",
+                "locality": "Osaka",
+                "postcode": "541-0055",
+                "region": "Ōsaka"
+            },
+            "name": "Ippoutei (一芳亭 船場店)",
+            "related_places": {
+                "parent": {
+                    "fsq_id": "4e7c711681dcd63138bfa414",
+                    "name": "船場センタービル 2号館"
+                }
+            },
+            "timezone": "Asia/Tokyo"
+        },
+        {
+            "fsq_id": "4b642496f964a5200ea12ae3",
+            "categories": [
+                {
+                    "id": 13003,
+                    "name": "Bar",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13034,
+                    "name": "Café",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13035,
+                    "name": "Coffee Shop",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 1422,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.702822,
+                    "longitude": 135.512828
+                },
+                "roof": {
+                    "latitude": 34.702822,
+                    "longitude": 135.512828
+                }
+            },
+            "link": "/v3/places/4b642496f964a5200ea12ae3",
+            "location": {
+                "address": "北区天神橋3丁目11-34",
+                "address_extended": "北辰ビル 1F",
+                "country": "JP",
+                "cross_street": "北辰ビル 1F",
+                "formatted_address": "北区天神橋3丁目11-34 (北辰ビル 1F), 大阪市, Ōsaka, 530-0041",
+                "locality": "Osaka",
+                "postcode": "530-0041",
+                "region": "Ōsaka"
+            },
+            "name": "Kemuri The Park (けむパー)",
+            "related_places": {},
+            "timezone": "Asia/Tokyo"
+        },
+        {
+            "fsq_id": "571c3a4b498e776963e422b1",
+            "categories": [
+                {
+                    "id": 13272,
+                    "name": "Ramen Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/ramen_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 1423,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.696457,
+                    "longitude": 135.486838
+                },
+                "roof": {
+                    "latitude": 34.696457,
+                    "longitude": 135.486838
+                }
+            },
+            "link": "/v3/places/571c3a4b498e776963e422b1",
+            "location": {
+                "address": "福島区福島5丁目12-21",
+                "country": "JP",
+                "cross_street": "",
+                "formatted_address": "福島区福島5丁目12-21, 大阪市, Ōsaka, 553-0003",
+                "locality": "Osaka",
+                "neighborhood": [
+                    "福島区"
+                ],
+                "postcode": "553-0003",
+                "region": "Ōsaka"
+            },
+            "name": "Moeyo Mensuke (燃えよ麺助)",
+            "related_places": {},
+            "timezone": "Asia/Tokyo"
+        }
+    ],
+    "context": {
+        "geo_bounds": {
+            "circle": {
+                "center": {
+                    "latitude": 34.69374,
+                    "longitude": 135.50218
+                },
+                "radius": 9868
+            }
+        }
+    }
+}
